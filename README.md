@@ -1,1 +1,2 @@
-# Practice
+This repository contains small exercises for learning and improving various skills, including programming, backend development, problem solving, and other technical topics.
+Exercises may change over time and are not tied to any specific language or structure.
