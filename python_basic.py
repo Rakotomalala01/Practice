@@ -307,7 +307,6 @@ class Solution:
         
         addElem(root.left, depthIndex + 1)
         addElem(root.right, depthIndex + 1)
-        return res
     
     def exist(self, board: List[List[str]], word: str) -> bool:
 
